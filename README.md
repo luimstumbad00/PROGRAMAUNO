@@ -3,7 +3,7 @@
 
 Este es un sistema de gestión desarrollado en **Lenguaje C** diseñado para administrar un directorio de registros de menores de edad. El programa utiliza una estructura de **lista ligada simple** para el manejo dinámico de la memoria, permitiendo gestionar la información de manera eficiente durante la ejecución.
 
-## 🚀 Funcionalidades
+## Funcionalidades
 
 El sistema ofrece un menú interactivo con las siguientes opciones:
 
@@ -13,12 +13,12 @@ El sistema ofrece un menú interactivo con las siguientes opciones:
 * **Búsqueda por Login:** Localización rápida de registros específicos.
 * **Modificación Dinámica:** Capacidad de editar cualquier campo de un registro existente de forma individual.
 
-## 🛠️ Requisitos del Sistema
+## Requisitos del Sistema
 
 * **Compilador:** GCC (instalado por defecto en la mayoría de las distribuciones Linux).
 * **Librerías:** Utiliza librerías estándar de C (`<stdio.h>`, `<stdlib.h>`, `<string.h>`).
 
-## 🐧 Instrucciones para Linux
+## Instrucciones para Linux
 
 Si estás en Linux, puedes compilar y ejecutar el programa siguiendo estos pasos desde la terminal:
 
